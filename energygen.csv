@@ -1,0 +1,441 @@
+period,respondent,min temp,respondent-name,fueltype,fuel,timezone,timezone-description,generation,value-units
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,130719,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,1478,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,139339,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,130719,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,126545,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,255682,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,254511,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,253589,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,255682,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,256873,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,891374,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,885601,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,879860,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,891374,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,896489,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,6456,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,6456,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,6456,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,6456,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,6456,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,172984,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,179138,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,184811,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,172984,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,166451,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,964935,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,963049,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,961987,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,964935,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,967552,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,543151,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,541830,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,540265,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,543151,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,544997,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,1479,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,1479,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,1479,megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,1479,megawatthours
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,135338,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,99154,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,97700,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,1870,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,1872,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,1871,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,1870,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,509865,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,511904,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,514732,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,513086,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,511904,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,973516,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,973771,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,974109,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,973888,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,973771,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,149131,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,141066,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,127822,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,134114,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,141066,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,6762,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,6762,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,6762,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,6762,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,6762,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,884385,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,887208,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,892590,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,889900,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,887208,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,260012,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,259916,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,259714,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,259834,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,259916,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,100818,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,99154,megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,96807,megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,1870,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,175304,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,1987,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,1987,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,1987,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,1987,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,1987,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,559216,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,553665,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,544234,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,548579,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,553665,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,981591,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,982314,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,983244,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,983272,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,982314,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,188518,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,193047,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,200066,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,196819,megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,193047,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,6333,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,6333,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,6333,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,6333,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,6333,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,917846,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,908957,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,890206,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,899328,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,908957,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,262030,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,261970,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,262431,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,262149,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,261970,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,175178,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,175304,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,173699,megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,174601,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,69942,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,73395,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,2058,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,2058,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,2058,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,2058,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,702264,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,700492,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,695887,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,698431,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,700492,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,911912,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,915185,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,923264,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,919004,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,915185,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,164368,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,163303,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,159900,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,161887,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,163303,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,20134,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,20134,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,20134,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,20134,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,20134,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,736527,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,747100,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,772839,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,759708,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,747100,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,198307,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,201606,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,207684,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,204655,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,201606,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,67089,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,69942,megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,77353,megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,2058,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,91305,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,90087,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,3086,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,3086,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,3086,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,3086,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,673317,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,671434,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,670018,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,670557,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,671434,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,903758,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,900371,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,893877,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,896786,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,900371,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,95568,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,100944,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,112500,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,106327,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,100944,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,13403,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,13403,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,13403,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,13403,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,13403,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,689123,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,690739,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,694055,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,692091,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,690739,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,172644,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,174136,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,175997,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,175435,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,174136,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,92268,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,91305,megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,88688,megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,3086,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,62865,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,61884,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,1897,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,1897,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,1897,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,1897,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,648791,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,653490,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,660857,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,657005,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,653490,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,933819,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,934607,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,935692,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,935333,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,934607,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,58434,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,60405,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,63880,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,62479,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,60405,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,23100,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,23100,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,23100,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,23100,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,23100,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,725737,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,722498,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,715451,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,719414,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,722498,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,178464,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,177164,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,175490,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,176003,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,177164,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,63496,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,62865,megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,61108,megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,1897,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,22039,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,22039,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,22039,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,22039,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,22039,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,503272,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,502917,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,503272,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,501215,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,503729,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,175117,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,170745,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,167132,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,175117,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,180095,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,596308,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,575190,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,555271,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,596308,megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,618721,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,1635,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,1635,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,1635,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,1635,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,1635,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,445703,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,441540,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,436283,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,445703,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,449727,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,745842,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,742491,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,738396,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,745842,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,750612,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,572149,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,563706,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,557515,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,572149,megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,580465,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,57605,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,57605,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,57605,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,57605,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,57605,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,207101,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,223582,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,193319,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,207101,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,242261,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,224558,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,225367,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,226225,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,225966,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,225367,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,1020939,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,1015028,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,995386,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,1006334,megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,1015028,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,5505,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,5505,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,5505,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,5505,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,5505,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,467294,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,470437,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,475063,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,472367,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,470437,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,834430,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,831381,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,826039,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,828292,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,831381,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,833691,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,825565,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,809094,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,817150,megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,825565,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,68043,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,68043,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,68043,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,68043,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,68043,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,97548,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,101292,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,97548,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,90054,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,93692,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,227640,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,227217,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,226695,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,226735,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,227217,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,865836,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,875078,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,896448,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,885341,megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,875078,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,7906,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,7905,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,7903,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,7904,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,7905,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,411490,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,411608,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,412382,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,412511,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,411608,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,767724,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,770987,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,776407,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,773638,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,770987,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,795217,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,802427,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,817611,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,809960,megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,802427,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,47816,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,47816,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,47816,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,47816,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,47816,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,226126,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,215049,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,235805,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,226126,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,202670,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,188473,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,191304,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,197744,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,194518,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,191304,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,613170,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,627734,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,659538,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,643225,megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,627734,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,7949,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,7951,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,7950,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,7949,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,7948,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,268247,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,275267,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,289446,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,282179,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,275267,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,744081,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,743802,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,744062,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,743733,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,743802,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,705324,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,705116,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,705603,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,705384,megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,705116,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Pacific,Pacific,32116,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Mountain,Mountain,32116,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Eastern,Eastern,32116,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Central,Central,32116,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",SUN,Solar,Arizona,Arizona,32116,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",WND,Wind,Arizona,Arizona,254393,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",WND,Wind,Central,Central,267274,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",WND,Wind,Pacific,Pacific,243024,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",WND,Wind,Mountain,Mountain,254393,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",WND,Wind,Eastern,Eastern,280720,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",COL,Coal,Pacific,Pacific,183562,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",COL,Coal,Mountain,Mountain,181710,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",COL,Coal,Eastern,Eastern,177216,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",COL,Coal,Central,Central,179528,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",COL,Coal,Arizona,Arizona,181710,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Pacific,Pacific,562975,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Mountain,Mountain,555987,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Eastern,Eastern,539402,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Central,Central,548198,megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,Arizona,Arizona,555987,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Mountain,Mountain,4336,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Eastern,Eastern,4336,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Central,Central,4336,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Arizona,Arizona,4336,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,Pacific,Pacific,4336,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Pacific,Pacific,213010,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Mountain,Mountain,209905,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Eastern,Eastern,207241,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Central,Central,207978,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,Arizona,Arizona,209905,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Pacific,Pacific,754287,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Mountain,Mountain,756066,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Eastern,Eastern,756216,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Central,Central,757009,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",COL,Coal,Arizona,Arizona,756066,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Pacific,Pacific,708734,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Mountain,Mountain,711217,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Eastern,Eastern,713282,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Central,Central,712554,megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,Arizona,Arizona,711217,megawatthours
