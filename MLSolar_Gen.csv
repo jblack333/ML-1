@@ -1,0 +1,23 @@
+period,respondent,min temp,respondent-name,fueltype,fuel,Av Gen Value,value-units
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"6,456",megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,479",megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,871",megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"6,762",megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,987",megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"6,333",megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"2,058",megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"20,134",megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"3,086",megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"13,403",megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,897",megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"23,100",megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"22,039",megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"1,635",megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"57,605",megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"5,505",megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"68,043",megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"7,905",megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"47,816",megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"7,949",megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",SUN,Solar,"32,116",megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",SUN,Solar,"4,336",megawatthours
