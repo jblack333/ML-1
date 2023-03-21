@@ -1,0 +1,23 @@
+period,respondent,min temp,respondent-name,fueltype,fuel,Av Gen Value,value-units
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",WND,Wind,"132,532",megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",WND,Wind,"175,274",megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,"138,640",megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,"98,727",megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",WND,Wind,"194,299",megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",WND,Wind,"174,817",megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,"162,552",megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,"71,544",megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,"103,257",megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",WND,Wind,"90,731",megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",WND,Wind,"61,121",megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,"62,444",megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,"502,881",megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",WND,Wind,"443,791",megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",WND,Wind,"214,673",megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",WND,Wind,"471,120",megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",WND,Wind,"96,027",megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,"411,920",megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",WND,Wind,"221,155",megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",WND,Wind,"278,081",megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",WND,Wind,"259,961",megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",WND,Wind,"209,608",megawatthours

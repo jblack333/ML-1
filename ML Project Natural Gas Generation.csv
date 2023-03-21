@@ -1,0 +1,23 @@
+period,respondent,min temp,respondent-name,fueltype,fuel,Av Gen Value,value-units
+2021-02-12,ERCO,25,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"888,940",megawatthours
+2021-02-12,MISO,-2,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"542,679",megawatthours
+2021-02-13,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"512,298",megawatthours
+2021-02-13,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"888,258",megawatthours
+2021-02-14,MISO,-11,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"551,872",megawatthours
+2021-02-14,ERCO,18,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"905,059",megawatthours
+2021-02-15,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"699,513",megawatthours
+2021-02-15,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"752,655",megawatthours
+2021-02-16,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"671,352",megawatthours
+2021-02-16,ERCO,7,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"691,349",megawatthours
+2021-02-17,MISO,-15,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"654,727",megawatthours
+2021-02-17,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"721,120",megawatthours
+2022-12-22,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"588,360",megawatthours
+2022-12-22,MISO,-6,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"569,197",megawatthours
+2022-12-23,ERCO,10,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"1,010,543",megawatthours
+2022-12-23,MISO,-4,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"822,213",megawatthours
+2022-12-24,ERCO,21,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"879,556",megawatthours
+2022-12-24,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"805,528",megawatthours
+2022-12-25,ERCO,23,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"634,280",megawatthours
+2022-12-25,MISO,7,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"705,309",megawatthours
+2022-12-26,ERCO,30,"Electric Reliability Council of Texas, Inc.",NG,Natural gas,"552,510",megawatthours
+2022-12-26,MISO,9,"Midcontinent Independent System Operator, Inc.",NG,Natural gas,"711,401",megawatthours
